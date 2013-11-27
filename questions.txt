@@ -1,0 +1,9 @@
+问题：
+1、机构中的 CMSID 有什么用、用户中的CMSID有什么用
+2、getorg、getuser怎么都获取不到数据，报500错误
+3、queryUser 同时传操作时间和机构code就查询不到数据了
+
+lifeng1 人员账号重复
+
+
+
